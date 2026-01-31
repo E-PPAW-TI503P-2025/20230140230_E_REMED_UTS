@@ -1,0 +1,30 @@
+{
+  "name": "20230140230_e_remed_uts",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u00002\u00000\u00002\u00003\u00000\u00001\u00004\u00000\u00002\u00003\u00000\u0000_\u0000E\u0000_\u0000R\u0000E\u0000M\u0000E\u0000D\u0000_\u0000U\u0000T\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-PPAW-TI503P-2025/20230140230_E_REMED_UTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-PPAW-TI503P-2025/20230140230_E_REMED_UTS/issues"
+  },
+  "homepage": "https://github.com/E-PPAW-TI503P-2025/20230140230_E_REMED_UTS#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.2",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
